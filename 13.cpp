@@ -47,3 +47,4 @@ int getSingleElement(vector<int> &arr){
     }
     return xorr;	
 }
+//end
